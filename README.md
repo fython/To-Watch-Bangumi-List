@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on (null)
+> Modified on November 14, 2015
 
 ----
 
@@ -81,4 +81,5 @@
 - [x] 笑对阴天（[曇天に笑う]()）
 - [ ] 摇曳百合（[ゆるゆり]()）
 - [x] 打工吧！魔王大人
+- [ ] Punch Line
 - To be continued.... 未完待续~
