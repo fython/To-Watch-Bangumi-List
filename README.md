@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on Jan 10, 2016
+> Modified on Oct 15, 2016
 
 ----
 
@@ -95,6 +95,10 @@
 - [ ] 田中君总是那么慵懒
 - [x] 野良神 1/2
 - [ ] 噬神者
+- [x] 境界的彼方 TV
 - [ ] 秒速五厘米
 - [ ] 我的朋友很少
+- [ ] 超自然9人组
+- [ ] 逆转裁判
+- [ ] 青鬼
 - To be continued.... 未完待续~
