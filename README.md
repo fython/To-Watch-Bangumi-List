@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on Dec 26, 2016
+> Modified on Jan 8, 2017
 
 ----
 
@@ -108,4 +108,6 @@
 - [x] 剑风传奇新作
 - [ ] 剑风传奇新作 第二季
 - [x] 月曜日のたわわ
+- [ ] 永生之酒
+- [ ] 混沌之脑
 - To be continued.... 未完待续~
