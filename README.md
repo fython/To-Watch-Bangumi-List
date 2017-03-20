@@ -1,9 +1,12 @@
 ## My TO-WATCH Bangumi List
 ## 我的补番列表
 
+
+**现在已经有网页版本的补番列表了（提供较方便的数据生成方法），切换到 [gh-pages](https://github.com/fython/To-Watch-Bangumi-List/tree/gh-pages) 查看代码及说明。或直接浏览 [Github Pages](https://fython.github.io/To-Watch-Bangumi-List) 查看实际效果。**
+
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on Feb 27, 2017
+> Modified on Mar 21, 2017
 
 ----
 
@@ -118,4 +121,5 @@
 - [ ] 混沌之子 (CHAOS;CHILD)
 - [ ] 熊女巫
 - [ ] 迷途猫
+- [ ] 路人女主的养成方法 第二季
 - To be continued.... 未完待续~
