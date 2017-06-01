@@ -6,7 +6,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on May 3, 2017
+> Modified on June 2, 2017
 
 ----
 
@@ -137,6 +137,6 @@
 - [ ] 不正经的魔术讲师与禁忌教典
 - [ ] Little Busters
 - [x] 少女与战车
-- [ ] 青春波纹
+- [x] 青春波纹
 - [ ] Hand Shakers
 - To be continued.... 未完待续~
