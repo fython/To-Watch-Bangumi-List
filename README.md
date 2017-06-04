@@ -6,7 +6,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on June 2, 2017
+> Modified on June 5, 2017
 
 ----
 
@@ -114,7 +114,7 @@
 - [x] 永生之酒
 - [x] 混沌之脑
 - [ ] 小林家的龙女仆
-- [ ] 废天使珈百璃
+- [x] 废天使珈百璃
 - [x] 幸运星
 - [x] 一拳超人
 - [ ] 一拳超人 第二季
