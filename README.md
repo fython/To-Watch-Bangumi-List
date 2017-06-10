@@ -136,6 +136,7 @@
 - [ ] 雏子的笔记
 - [ ] 不正经的魔术讲师与禁忌教典
 - [ ] Little Busters
+- [ ] Little Busters ~Refrain~
 - [x] 少女与战车
 - [x] 青春波纹
 - [ ] Hand Shakers
