@@ -143,4 +143,5 @@
 - [x] 青春波纹
 - [ ] Hand Shakers
 - [x] 时钟机关之星
+- [ ] 武装少女
 - To be continued.... 未完待续~
