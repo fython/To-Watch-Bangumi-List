@@ -6,7 +6,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on June 22, 2017
+> Modified on June 23, 2017
 
 ----
 
@@ -142,5 +142,5 @@
 - [x] 少女与战车
 - [x] 青春波纹
 - [ ] Hand Shakers
-- [ ] 时钟机关之星
+- [x] 时钟机关之星
 - To be continued.... 未完待续~
