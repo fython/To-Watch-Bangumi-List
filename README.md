@@ -6,7 +6,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on July 2, 2017
+> Modified on July 5, 2017
 
 ----
 
@@ -99,6 +99,7 @@
 - [ ] ~~线上老婆不可能是女生~~
 - [ ] 七大罪
 - [ ] NEW GAME
+- [ ] NEW GAME 第二季
 - [ ] 田中君总是那么慵懒
 - [x] 野良神 1/2
 - [ ] 噬神者
