@@ -6,7 +6,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on July 18, 2017
+> Modified on July 27, 2017
 
 ----
 
@@ -150,4 +150,7 @@
 - [ ] 笨女孩
 - [ ] 骑士&魔法
 - [ ] MM 一族
+- [ ] 欢迎来到实力之上主义的教室
+- [ ] 第一次 Gal
+- [ ] 天使的 3P
 - To be continued.... 未完待续~
