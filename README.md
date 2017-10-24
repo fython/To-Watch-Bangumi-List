@@ -6,7 +6,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on July 27, 2017
+> Modified on October 24, 2017
 
 ----
 
@@ -161,4 +161,6 @@
 - [ ] 此花亭奇谭
 - [ ] 调教咖啡厅
 - [ ] 如果有妹妹就好了。
+- [ ] 动画同好会
+- [ ] 关于我女友是个一本正经的碧池这件事
 - To be continued.... 未完待续~
