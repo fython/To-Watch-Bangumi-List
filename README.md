@@ -6,7 +6,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on October 24, 2017
+> Modified on October 25, 2017
 
 ----
 
@@ -163,4 +163,5 @@
 - [ ] 如果有妹妹就好了。
 - [ ] 动画同好会
 - [ ] 关于我女友是个一本正经的碧池这件事
+- [x] 公主准则 (Princess Principal)
 - To be continued.... 未完待续~
