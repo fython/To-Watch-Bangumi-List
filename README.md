@@ -6,7 +6,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on November 27, 2017
+> Modified on December 25, 2017
 
 ----
 
@@ -166,4 +166,5 @@
 - [x] 公主准则 (Princess Principal)
 - [x] 迷家
 - [x] ~~国王游戏~~（划掉是因为不推荐看，实际上补完了）
+- [x] 十二大战
 - To be continued.... 未完待续~
