@@ -6,7 +6,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on December 25, 2017
+> Modified on December 31, 2017
 
 ----
 
@@ -157,7 +157,7 @@
 - [ ] 第一次 Gal
 - [ ] 天使的 3P
 - [ ] 声之形
-- [ ] Just Because!
+- [x] Just Because!
 - [ ] 此花亭奇谭
 - [x] 调教咖啡厅
 - [x] 如果有妹妹就好了。
