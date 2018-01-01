@@ -6,7 +6,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on December 31, 2017
+> Modified on January 1, 2018
 
 ----
 
@@ -162,7 +162,7 @@
 - [x] 调教咖啡厅
 - [x] 如果有妹妹就好了。
 - [ ] 动画同好会
-- [ ] 关于我女友是个一本正经的碧池这件事
+- [x] 关于我女友是个一本正经的碧池这件事
 - [x] 公主准则 (Princess Principal)
 - [x] 迷家
 - [x] ~~国王游戏~~（划掉是因为不推荐看，实际上补完了）
