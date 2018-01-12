@@ -6,7 +6,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on January 1, 2018
+> Modified on January 12, 2018
 
 ----
 
@@ -155,11 +155,11 @@
 - [ ] 骑士&魔法
 - [ ] MM 一族
 - [x] 欢迎来到实力之上主义的教室
-- [ ] 第一次 Gal
+- [x] 第一次 Gal
 - [ ] 天使的 3P
 - [ ] 声之形
 - [x] Just Because!
-- [ ] 此花亭奇谭
+- [x] 此花亭奇谭
 - [x] 调教咖啡厅
 - [x] 如果有妹妹就好了。
 - [ ] 动画同好会
