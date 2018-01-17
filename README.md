@@ -6,7 +6,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on January 12, 2018
+> Modified on January 17, 2018
 
 ----
 
@@ -173,4 +173,5 @@
 - [ ] Slow Start
 - [ ] 紫罗兰的永恒花园
 - [ ] 卫宫家今天的饭
+- [x] 政宗君的复仇
 - To be continued.... 未完待续~
