@@ -6,7 +6,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on February 7, 2018
+> Modified on February 13, 2018
 
 ----
 
@@ -175,6 +175,6 @@
 - [ ] 卫宫家今天的饭
 - [x] 政宗君的复仇
 - [x] 中二病也要谈恋爱 第一季
-- [ ] 中二病也要谈恋爱 第二季
+- [x] 中二病也要谈恋爱 第二季
 - [ ] 中二病也要谈恋爱 剧场版
 - To be continued.... 未完待续~
