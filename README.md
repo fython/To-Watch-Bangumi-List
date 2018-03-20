@@ -6,7 +6,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on March 11, 2018
+> Modified on March 21, 2018
 
 ----
 
@@ -179,4 +179,5 @@
 - [x] 中二病也要谈恋爱 第二季
 - [ ] 中二病也要谈恋爱 剧场版
 - [x] 来自风平浪静的明天
+- [ ] 黄金拼图
 - To be continued.... 未完待续~
