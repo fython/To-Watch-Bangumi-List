@@ -6,7 +6,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on April 3, 2018
+> Modified on April 10, 2018
 
 ----
 
@@ -184,4 +184,8 @@
 - [ ] Comic Girls
 - [ ] ALICE or ALICE
 - [ ] 敦君与女朋友
+- [ ] 皇帝圣印战记
+- [ ] 刀剑神域外传 GGO
+- [ ] 摇曳露营
+- [ ] 少女终末旅行
 - To be continued.... 未完待续~
