@@ -6,7 +6,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on April 10, 2018
+> Modified on April 12, 2018
 
 ----
 
@@ -135,6 +135,7 @@
 - [ ] 苍之彼方的四重奏
 - [ ] 清恋 SEIREN
 - [x] 命运石之门
+- [ ] 命运石之门 0
 - [x] 在盛夏等待
 - [x] 路人女主的养成方法 第二季
 - [x] 为美好的世界献上祝福 第一季
@@ -188,4 +189,5 @@
 - [ ] 刀剑神域外传 GGO
 - [ ] 摇曳露营
 - [ ] 少女终末旅行
+- [ ] A.I.C.O.
 - To be continued.... 未完待续~
