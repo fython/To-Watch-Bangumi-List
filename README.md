@@ -1,9 +1,6 @@
 ## My TO-WATCH Bangumi List
 ## 我的补番列表
 
-
-**现在已经有网页版本的补番列表了（提供较方便的数据生成方法），切换到 [gh-pages](https://github.com/fython/To-Watch-Bangumi-List/tree/gh-pages) 查看代码及说明。或直接浏览 [Github Pages](https://fython.github.io/To-Watch-Bangumi-List) 查看实际效果。**
-
 > Created by 烧饼 @fython on September 26, 2015
 
 > Modified on April 12, 2018
@@ -189,5 +186,5 @@
 - [ ] 刀剑神域外传 GGO
 - [ ] 摇曳露营
 - [ ] 少女终末旅行
-- [ ] A.I.C.O.
+- [x] A.I.C.O.
 - To be continued.... 未完待续~
