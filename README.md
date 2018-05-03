@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on April 12, 2018
+> Modified on May 3, 2018
 
 ----
 
@@ -171,6 +171,7 @@
 - [x] 三颗星彩色冒险
 - [x] Slow Start
 - [x] 紫罗兰的永恒花园
+- [x] 爱吃拉面的小泉同学
 - [ ] 卫宫家今天的饭
 - [x] 政宗君的复仇
 - [x] 中二病也要谈恋爱 第一季
@@ -188,4 +189,7 @@
 - [ ] 少女终末旅行
 - [x] A.I.C.O.
 - [ ] 魔法少女site
+- [ ] 神的笔记本
+- [ ] Caligula 卡里古拉
+- [ ] 原书·原书使
 - To be continued.... 未完待续~
