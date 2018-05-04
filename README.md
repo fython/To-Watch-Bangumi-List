@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on May 3, 2018
+> Modified on May 4, 2018
 
 ----
 
@@ -189,7 +189,7 @@
 - [ ] 少女终末旅行
 - [x] A.I.C.O.
 - [ ] 魔法少女site
-- [ ] 神的笔记本
+- [x] 神的笔记本
 - [ ] Caligula 卡里古拉
 - [ ] 原书·原书使
 - To be continued.... 未完待续~
