@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on May 4, 2018
+> Modified on May 14, 2018
 
 ----
 
@@ -134,6 +134,7 @@
 - [ ] 清恋 SEIREN
 - [x] 命运石之门
 - [ ] 命运石之门 0
+- [x] 命运石之门剧场版：负荷领域的既视感
 - [x] 在盛夏等待
 - [x] 路人女主的养成方法 第二季
 - [x] 为美好的世界献上祝福 第一季
