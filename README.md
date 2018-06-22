@@ -186,7 +186,7 @@
 - [ ] 黄金拼图
 - [x] 超能力女儿
 - [ ] Comic Girls
-- [ ] ALICE or ALICE
+- [x] ALICE or ALICE
 - [ ] 敦君与女朋友
 - [ ] 皇帝圣印战记
 - [ ] 刀剑神域外传 GGO
