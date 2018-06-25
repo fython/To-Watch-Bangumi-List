@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on June 24, 2018
+> Modified on June 25, 2018
 
 ----
 
@@ -195,7 +195,7 @@
 - [x] A.I.C.O.
 - [x] 魔法少女site
 - [x] 神的笔记本
-- [ ] Caligula 卡里古拉
+- [x] Caligula 卡里古拉
 - [ ] 原书·原书使
 - [x] 快要坏掉的八音盒 OVA
 - [x] 我的脑内选项正在全力妨碍学院恋爱喜剧
@@ -205,6 +205,6 @@
 - [ ] JOJO 的奇妙冒险 不灭钻石
 - [x] 噬血狂袭 第一季
 - [ ] 噬血狂袭 第二季
-- [ ] 超次元游戏海王星
+- [x] 超次元游戏海王星
 - [ ] 月色真美
 - To be continued.... 未完待续~
