@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on June 30, 2018
+> Modified on July 4, 2018
 
 ----
 
@@ -112,6 +112,8 @@
 - [x] 野良神 1/2
 - [ ] 噬神者
 - [x] 境界的彼方 TV
+- [x] 境界的彼方 I'll be here 过去篇
+- [x] 境界的彼方 I'll be here 未来篇
 - [ ] 秒速五厘米
 - [ ] 我的朋友很少
 - [x] 超自然9人组
@@ -191,7 +193,7 @@
 - [x] ALICE or ALICE
 - [x] 敦君与女朋友
 - [ ] 皇帝圣印战记
-- [ ] 刀剑神域外传 GGO
+- [x] 刀剑神域外传 GGO
 - [ ] 摇曳露营
 - [x] 少女终末旅行
 - [x] A.I.C.O.
@@ -209,4 +211,7 @@
 - [ ] 噬血狂袭 第二季
 - [x] 超次元游戏海王星
 - [x] 月色真美
+- [ ] Island
+- [ ] 遥的接球
+- [ ] 赛马娘
 - To be continued.... 未完待续~
