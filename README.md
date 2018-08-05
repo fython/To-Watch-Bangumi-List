@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on July 10, 2018
+> Modified on August 6, 2018
 
 ----
 
@@ -214,4 +214,12 @@
 - [ ] Island
 - [ ] 遥的接球
 - [ ] 赛马娘
+- [ ] 碧蓝之海
+- [ ] Angels of Death
+- [ ] Happy Sugar Life（请先了解这部番的类型内容再看）
+- [ ] 异世界魔王与召唤少女的奴隶魔术
+- [ ] 后街女孩
+- [ ] 工作细胞
+- [ ] 高分少女
+- [ ] 邪神与厨二病少女
 - To be continued.... 未完待续~
