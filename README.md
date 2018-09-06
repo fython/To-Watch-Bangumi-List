@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on August 8, 2018
+> Modified on Sept 6, 2018
 
 ----
 
@@ -222,4 +222,7 @@
 - [ ] 工作细胞
 - [ ] 高分少女
 - [ ] 邪神与厨二病少女
+- [ ] GJ 部
+- [ ] GJ 部 @
+- [ ] AIR
 - To be continued.... 未完待续~
