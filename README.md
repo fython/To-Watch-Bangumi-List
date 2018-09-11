@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on Sept 6, 2018
+> Modified on Sept 11, 2018
 
 ----
 
@@ -218,11 +218,11 @@
 - [ ] Angels of Death
 - [ ] Happy Sugar Life（请先了解这部番的类型内容再看）
 - [ ] 异世界魔王与召唤少女的奴隶魔术
-- [ ] 后街女孩
+- [x] 后街女孩
 - [ ] 工作细胞
 - [ ] 高分少女
 - [ ] 邪神与厨二病少女
-- [ ] GJ 部
-- [ ] GJ 部 @
+- [x] GJ 部
+- [x] GJ 部 @
 - [ ] AIR
 - To be continued.... 未完待续~
