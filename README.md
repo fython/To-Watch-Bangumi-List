@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on Sept 11, 2018
+> Modified on Sept 13, 2018
 
 ----
 
@@ -225,4 +225,6 @@
 - [x] GJ 部
 - [x] GJ 部 @
 - [ ] AIR
+- [x] 魔法少女育成计划
+- [ ] 魔法少女小圆
 - To be continued.... 未完待续~
