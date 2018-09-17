@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on Sept 15, 2018
+> Modified on Sept 17, 2018
 
 ----
 
@@ -211,7 +211,7 @@
 - [ ] 噬血狂袭 第二季
 - [x] 超次元游戏海王星
 - [x] 月色真美
-- [ ] Island
+- [x] Island
 - [ ] 遥的接球
 - [ ] 赛马娘
 - [ ] 碧蓝之海
@@ -228,4 +228,6 @@
 - [x] 魔法少女育成计划
 - [ ] 魔法少女小圆
 - [x] 肆式青春
+- [ ] 言叶之庭
+- [ ] 爱丽丝与藏六
 - To be continued.... 未完待续~
