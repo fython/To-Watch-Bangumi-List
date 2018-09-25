@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on Sept 24, 2018
+> Modified on Sept 25, 2018
 
 ----
 
@@ -231,4 +231,7 @@
 - [x] 言叶之庭
 - [x] 爱丽丝与藏六
 - [ ] 轻羽飞扬
+- [ ] 中间管理录利根川
+- [ ] 食戟之灵 第一季
+- [ ] 食戟之灵 第二季
 - To be continued.... 未完待续~
