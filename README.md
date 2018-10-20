@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on Oct 18, 2018
+> Modified on Oct 20, 2018
 
 ----
 
@@ -247,5 +247,5 @@
 - [ ] 青春猪头少年不会梦到兔女郎学姐
 - [ ] 关于我转生变成史莱姆这档事
 - [ ] 哥布林杀手
-- [ ] 我喜欢的是妹妹但不是妹妹（动画制作太烂，准备弃）
+- [x] 少女歌剧 Revue Starlight
 - To be continued.... 未完待续~
