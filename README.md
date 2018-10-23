@@ -249,4 +249,5 @@
 - [ ] 哥布林杀手
 - [x] 少女歌剧 Revue Starlight
 - [ ] RELEASE THE SPYCE
+- [ ] SSSS.Gridman
 - To be continued.... 未完待续~
