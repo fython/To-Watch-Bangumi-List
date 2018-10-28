@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on Oct 23, 2018
+> Modified on Oct 28, 2018
 
 ----
 
@@ -217,7 +217,7 @@
 - [ ] 遥的接球
 - [ ] 赛马娘
 - [x] 碧蓝之海
-- [ ] Angels of Death
+- [x] Angels of Death
 - [x] Happy Sugar Life（请先了解这部番的类型内容再看）
 - [x] 异世界魔王与召唤少女的奴隶魔术
 - [x] 后街女孩
