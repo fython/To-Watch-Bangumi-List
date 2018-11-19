@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on Oct 28, 2018
+> Modified on Nov 19, 2018
 
 ----
 
@@ -207,7 +207,7 @@
 - [x] Sola
 - [x] JOJO 的奇妙冒险 星尘斗士
 - [x] JOJO 的奇妙冒险 星尘斗士 埃及篇
-- [ ] JOJO 的奇妙冒险 不灭钻石
+- [x] JOJO 的奇妙冒险 不灭钻石
 - [ ] JOJO 的奇妙冒险 黄金之国
 - [x] 噬血狂袭 第一季
 - [ ] 噬血狂袭 第二季
