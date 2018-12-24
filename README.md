@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on Dec 17, 2018
+> Modified on Dec 24, 2018
 
 ----
 
@@ -250,8 +250,9 @@
 - [ ] 关于我转生变成史莱姆这档事
 - [ ] 哥布林杀手
 - [x] 少女歌剧 Revue Starlight
-- [ ] RELEASE THE SPYCE
+- [x] RELEASE THE SPYCE
 - [ ] SSSS.Gridman
 - [ ] 魔法少女特殊战明日香
 - [ ] 五等分的花嫁
+- [ ] 樱花大战
 - To be continued.... 未完待续~
