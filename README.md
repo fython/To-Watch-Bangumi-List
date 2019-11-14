@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on Nov 9, 2019
+> Modified on Nov 14, 2019
 
 ----
 
@@ -249,6 +249,7 @@
 - [x] 玉子市场
 - [x] 佐贺偶像是传奇
 - [x] 青春猪头少年不会梦到兔女郎学姐
+- [ ] 青春猪头少年不会梦到怀梦美少女（剧场版）
 - [x] 关于我转生变成史莱姆这档事
 - [x] 哥布林杀手
 - [x] 少女歌剧 Revue Starlight
