@@ -3,7 +3,7 @@
 
 > Created by 烧饼 @fython on September 26, 2015
 
-> Modified on August 22, 2020
+> Modified on August 23, 2020
 
 ----
 
@@ -275,4 +275,5 @@
 - [x] 我，不是说了能力要平均值么！
 - [ ] 我们无法一起学习！
 - [ ] 星空之合
+- [x] 知晓天空之蓝的人啊
 - To be continued.... 未完待续~
